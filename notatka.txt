@@ -1,0 +1,6 @@
+To jest pierwsza linia tekstu.
+Druga linia zawiera trochę więcej słów niż pierwsza.
+Trzecia i ostatnia linia notatki.
+Dopisana linia A
+Dopisana linia B
+Dopisana linia C
